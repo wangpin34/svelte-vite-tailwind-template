@@ -5,7 +5,7 @@ This is a fork of Svelte's project template to enable usage of Tailwindcss. Refe
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit lukem121/svelte-vite-tailwind-template svelte-app
+npx degit wangpin34/svelte-vite-tailwind-template svelte-app
 cd svelte-app
 ```
 
