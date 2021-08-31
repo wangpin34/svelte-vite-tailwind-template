@@ -19,3 +19,7 @@ Install the dependencies...
 cd svelte-app
 npm install
 ```
+
+## LICENSE
+
+MIT
